@@ -28,6 +28,8 @@ firebaseAuth = "24.0.1"
 credentials = "1.6.0"
 credentialsPlayServicesAuth = "1.6.0"
 googleid = "1.2.0"
+spotless = "6.25.0"
+
 
 [libraries]
 
@@ -99,4 +101,4 @@ jetbrainsKotlinSerialization = { id = "org.jetbrains.kotlin.plugin.serialization
 google-devtools-ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
 protobuf = { id = "com.google.protobuf", version.ref = "protobufPlugin" }
 google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
-
+spotless = { id = "com.diffplug.spotless", version.ref = "spotless" }

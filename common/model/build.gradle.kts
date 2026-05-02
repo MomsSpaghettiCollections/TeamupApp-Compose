@@ -13,9 +13,8 @@ kotlin {
     }
 }
 
-dependencies{
+dependencies {
     api(libs.arrow.core)
 
     implementation(libs.kotlinx.serialization.json)
-
 }
