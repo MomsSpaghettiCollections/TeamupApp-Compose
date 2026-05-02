@@ -46,7 +46,6 @@ protobuf {
     }
 }
 
-
 dependencies {
     implementation(projects.common.model)
 
