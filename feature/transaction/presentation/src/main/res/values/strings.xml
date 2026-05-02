@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_a">Invalid a.</string>
+    <string name="updated">Updated Successfully</string>
+
+    <string name="note_hint">Notes</string>
+    <string name="note_label">Add Notes here</string>
+
+
+    <string-array name="txt_transaction_Types">
+        <item>Credit</item>
+        <item>Debut</item>
+    </string-array>
+</resources>

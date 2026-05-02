@@ -1,0 +1,14 @@
+ syntax = "proto3";
+
+ import "com/ups/android/apps/storage/datastore/data/auth_status.proto";
+ import "com/ups/android/apps/storage/datastore/data/onboarding_status.proto";
+
+ option java_package = "com.ups.android.apps.storage.datastore.data";
+ option java_multiple_files = true;
+
+message UserPreferences{
+     AuthStatus authStatus = 1;
+     OnboardingStatus onboardingStatus = 2;
+     bool isNotificationEnabled = 3;
+ }
+

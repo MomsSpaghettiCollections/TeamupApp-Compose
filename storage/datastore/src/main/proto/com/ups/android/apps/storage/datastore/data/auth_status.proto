@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.ups.android.apps.storage.datastore.data";
+option java_multiple_files = true;
+
+
+enum AuthStatus{
+    NOT_AUTHENTICATED = 0;
+    AUTHENTICATED = 1;
+    GUEST = 2;
+}

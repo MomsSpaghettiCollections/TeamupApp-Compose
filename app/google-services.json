@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "726134581276",
+    "firebase_url": "https://keepupapps-business-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "keepupapps-business",
+    "storage_bucket": "keepupapps-business.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726134581276:android:9d5c6c663d9d47cef297d9",
+        "android_client_info": {
+          "package_name": "com.ups.android.apps.teamup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TGd_hAk84Mv2lyy9sq-q3ZQkTPmexWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

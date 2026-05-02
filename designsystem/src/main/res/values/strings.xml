@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="web_client_id">1x</string>
+
+
+    <string name="txt_category">Category</string>
+    <string name="txt_subcategory">Sub Category</string>
+
+   <string name="txt_ok">OK</string>
+    <string name="txt_cancel">Cancel</string>
+
+
+</resources>

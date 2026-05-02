@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_invalid_credential">Invalid credential found.</string>
+    <string name="error_invalid_user">Invalid user found.</string>
+    <string name="error_unknown">Invalid error.</string>
+
+    <string name="welcome_text">Welcome to</string>
+    <string name="welcome_app_name">TeamupApps</string>
+    <string name="welcome_desc">Manage your stock wisely</string>
+    <string name="welcome_getting_started">Getting Started</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <string name="sign_in_title">Sign in to your Account</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="sign_in_title_span">Sign in</string>
+    <string name="sign_in_guest">Continue as guest</string>
+    <string name="sign_in_error">SignIn Error</string>
+
+    <string name="sign_in_tnc_span">By signing up, you agree to the Terms of Services and Data Processing Agreement.</string>
+    <string name="sign_in_tnc_span1">Terms of Services</string>
+    <string name="sign_in_tnc_span2">Data Processing Agreement</string>
+
+    <string-array name="onboarding_title">
+        <item>Analysis Spending Analysis Analysis</item>
+        <item>Description Description Record Description Description</item>
+        <item>Category Finances Category Category</item>
+    </string-array>
+
+    <string-array name="onboarding_title_spans">
+        <item>Spending</item>
+        <item>Record</item>
+        <item>Finances</item>
+    </string-array>
+
+    <string-array name="onboarding_desc">
+        <item>See Where your</item>
+        <item>Spending Description</item>
+        <item>Spending Description</item>
+    </string-array>
+</resources>
